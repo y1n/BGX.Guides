@@ -1,7 +1,7 @@
   ![Aatrox]()
 # Aatrox 
 
- Best plugin: **EnzuAIO**
+ Best plugin: **Entropy AIO**
  
 
 
